@@ -1,4 +1,4 @@
-# simple_neutron_burst
+# neutron_burst
 A jupyter notebook for computing neutron burst abundances.
 
 The neutron burst is a neutron capture process that lies somewhere between the s and r-processes. This projects explores the origin of the isotope's created from this exotic nucleosynthesis process by allowing for your own modifications to the neutron exposure and by varying the initial composition relative to solar. Before exploring this notebook please take note of two things:
